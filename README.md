@@ -129,10 +129,5 @@ firebase deploy
 - 📦 Firestore Database for real-time data storage
 - 🌐 Firebase Cloud Functions for APIs
 
-## 📜 License
-This project is licensed under the MIT License.
-
----
-
 Feel free to contribute and improve Firreonway! 🎉
 
